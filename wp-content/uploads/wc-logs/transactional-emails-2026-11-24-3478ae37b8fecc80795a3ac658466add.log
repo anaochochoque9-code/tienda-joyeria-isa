@@ -1,0 +1,3 @@
+2026-11-24T14:37:39+00:00 INFO Email "customer_processing_order" for order #248 sent CONTEXT: {"email_type":"customer_processing_order","status":"sent","recipient":"AnaOchochoque","order":248}
+2026-11-24T14:37:41+00:00 INFO Email "customer_completed_order" for order #248 sent CONTEXT: {"email_type":"customer_completed_order","status":"sent","recipient":"AnaOchochoque","order":248}
+2026-11-24T14:37:55+00:00 INFO Email "customer_completed_order" for order #246 sent CONTEXT: {"email_type":"customer_completed_order","status":"sent","recipient":"AnaOchochoque","order":246}
