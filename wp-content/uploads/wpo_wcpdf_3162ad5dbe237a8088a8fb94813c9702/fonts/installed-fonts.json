@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/OpenSans-Normal",
+        "bold": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/OpenSans-Bold",
+        "italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/Segoe-Normal",
+        "bold": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/Segoe-Bold",
+        "italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/currencies",
+        "bold": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/currencies",
+        "italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/currencies",
+        "bold_italic": "C:\/laragon\/www\/joyeriaisa\/wp-content\/uploads\/wpo_wcpdf_3162ad5dbe237a8088a8fb94813c9702\/fonts\/currencies"
+    }
+}

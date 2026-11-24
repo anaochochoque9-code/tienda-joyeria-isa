@@ -1,0 +1,8 @@
+2026-11-20T11:32:40+00:00 INFO Email "new_order" for order #237 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"AnaOchochoque","order":237}
+2026-11-20T11:32:41+00:00 INFO Email "customer_on_hold_order" for order #237 sent CONTEXT: {"email_type":"customer_on_hold_order","status":"sent","recipient":"AnaOchochoque","order":237}
+2026-11-20T16:53:42+00:00 INFO Email "new_order" for order #246 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"AnaOchochoque","order":246}
+2026-11-20T16:53:42+00:00 INFO Email "customer_on_hold_order" for order #246 sent CONTEXT: {"email_type":"customer_on_hold_order","status":"sent","recipient":"AnaOchochoque","order":246}
+2026-11-20T16:54:21+00:00 INFO Email "wc_peprodev_customer_receipt_uploaded" for order #246 sent CONTEXT: {"email_type":"wc_peprodev_customer_receipt_uploaded","status":"sent","recipient":"AnaOchochoque","order":246}
+2026-11-20T16:54:22+00:00 INFO Email "wc_peprodev_admin_receipt_uploaded" for order #246 sent CONTEXT: {"email_type":"wc_peprodev_admin_receipt_uploaded","status":"sent","recipient":"AnaOchochoque","order":246}
+2026-11-20T16:55:34+00:00 INFO Email "new_order" for order #248 sent CONTEXT: {"email_type":"new_order","status":"sent","recipient":"AnaOchochoque","order":248}
+2026-11-20T16:55:35+00:00 INFO Email "customer_on_hold_order" for order #248 sent CONTEXT: {"email_type":"customer_on_hold_order","status":"sent","recipient":"AnaOchochoque","order":248}
